@@ -1,6 +1,6 @@
 # Pyroid-3-Pocket-Python 🐍
 
-A growing collection of small Python games, experiments, and practice programs written on my phone using **Pydroid 3**.
+A growing collection of small Python games, experiments, and practice programs written on my phone using **Pyroid 3**.
 
 These programs are created during spare moments as a way to practice Python fundamentals and turn simple ideas into working code.
 
