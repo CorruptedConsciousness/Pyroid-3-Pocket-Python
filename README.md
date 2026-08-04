@@ -1,4 +1,4 @@
-# Pyroid-3-Pocket-Python# Pydroid-3-Pocket-Python
+# Pydroid-3-Pocket-Python
 
 A growing collection of small Python games, experiments, and practice programs written on my phone using **Pydroid 3**.
 
